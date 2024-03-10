@@ -1,4 +1,5 @@
-/node_modules
+# Ignore node_modules
+node_modules/
 
-
-/build
+# Ignore build artifacts
+/build/
