@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-First-React-Website-/static/css/main.9c2ccd08.css",
+    "main.js": "/My-First-React-Website-/static/js/main.6196a1cb.js",
+    "static/media/ujjwal.jpg": "/My-First-React-Website-/static/media/ujjwal.5d192f556034c48dfb2b.jpg",
+    "static/media/welcome.png": "/My-First-React-Website-/static/media/welcome.40cd42266893cf8e936a.png",
+    "index.html": "/My-First-React-Website-/index.html",
+    "main.9c2ccd08.css.map": "/My-First-React-Website-/static/css/main.9c2ccd08.css.map",
+    "main.6196a1cb.js.map": "/My-First-React-Website-/static/js/main.6196a1cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c2ccd08.css",
+    "static/js/main.6196a1cb.js"
+  ]
+}
